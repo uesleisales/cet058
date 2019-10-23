@@ -1,0 +1,30 @@
+cd expressoes_regulares/
+ 2002  cd inputs/
+ 2003  ls -l
+ 2004  ls
+ 2005  cat exemplo1-linhas.in
+ 2006  gedit exemplo1-linhas.awk
+ 2007  ls
+ 2008  ./exemplo1-linhas.awk exemplo1-linhas.in
+ 2009  gedit exemplo1-linhas.awk
+ 2010  ./exemplo1-linhas.awk exemplo1-linhas.in
+ 2011  gedit exemplo2-padrao_simples.in
+ 2012  gedit exemplo2-padrao_simples.awk
+ 2013  ./exemplo2-linhas.awk exemplo1-linhas.in
+ 2014  ./exemplo2-padrao_simples.awk exemplo1-linhas.in
+ 2015  gedit exemplo2-padrao_simples.awk 
+ 2016  ls
+ 2017  gedit exemplo1-linhas.in
+ 2018  gedit exemplo2-padrao_simples.awk 
+ 2019  ./exemplo2-padrao_simples.awk exemplo1-linhas.in
+ 2020  gedit exemplo2-padrao_simples.awk 
+ 2021  gedit exemplo3-padroes_multiplos.awk 
+ 2022  gedit exemplo2-padrao_simples.awk 
+ 2023  ./exemplo2-padrao_simples.awk exemplo1-linhas.in
+ 2024  gedit exemplo3-padroes_multiplos.awk 
+ 2025  ./exemplo2-padrao_simples.awk exemplo1-linhas.in
+ 2026  ./exemplo3-padroes_multiplos.awk exemplo1-linhas.in
+ 2027  ./exemplo2-padrao_simples.awk exemplo1-linhas.in
+ 2028  gedit exemplo3-padroes_multiplos.awk
+ 2029  history
+
